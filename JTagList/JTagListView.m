@@ -52,11 +52,15 @@
            [btn addTarget:self action:@selector(btnClick:) forControlEvents:UIControlEventTouchUpInside];
 
            lastPositionX           = CGRectGetMaxX(btn.frame);
-
            [self addSubview:btn];
+            
+           
         }
         
+        _tagHeight = lastPositionY + TAGHEIGHT;
     }
+    
+    
     return self;
 }
 

@@ -13,6 +13,9 @@
 //设置字体的颜色
 @property (nonatomic,strong) UIColor *textColor;
 
+//返回tag在最后的view伤的高度y的值
+@property  CGFloat tagHeight;
+
 @property (nonatomic,copy) void(^tagClick)(long index);
 
 

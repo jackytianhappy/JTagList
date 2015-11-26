@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1855A6291C07184400557A27 /* tag introduction.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1855A6281C07184400557A27 /* tag introduction.gif */; };
 		187101BD1C06081A001A4AE7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101BC1C06081A001A4AE7 /* main.m */; };
 		187101C01C06081A001A4AE7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101BF1C06081A001A4AE7 /* AppDelegate.m */; };
 		187101C31C06081A001A4AE7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101C21C06081A001A4AE7 /* ViewController.m */; };
@@ -17,7 +18,6 @@
 		187101D91C06081A001A4AE7 /* JTagListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101D81C06081A001A4AE7 /* JTagListTests.m */; };
 		187101E41C06081A001A4AE7 /* JTagListUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101E31C06081A001A4AE7 /* JTagListUITests.m */; };
 		187101F71C0608BE001A4AE7 /* JTagListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 187101F61C0608BE001A4AE7 /* JTagListView.m */; };
-		18CCBC1E1C06B7A1008A136A /* tag introduction.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18CCBC1D1C06B7A1008A136A /* tag introduction.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1855A6281C07184400557A27 /* tag introduction.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tag introduction.gif"; sourceTree = "<group>"; };
 		187101B81C06081A001A4AE7 /* JTagList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JTagList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		187101BC1C06081A001A4AE7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		187101BE1C06081A001A4AE7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -57,7 +58,6 @@
 		187101E51C06081A001A4AE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		187101F51C0608BE001A4AE7 /* JTagListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTagListView.h; sourceTree = "<group>"; };
 		187101F61C0608BE001A4AE7 /* JTagListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTagListView.m; sourceTree = "<group>"; };
-		18CCBC1D1C06B7A1008A136A /* tag introduction.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "tag introduction.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,7 +162,7 @@
 		18CCBC1C1C06B749008A136A /* gif */ = {
 			isa = PBXGroup;
 			children = (
-				18CCBC1D1C06B7A1008A136A /* tag introduction.gif */,
+				1855A6281C07184400557A27 /* tag introduction.gif */,
 			);
 			name = gif;
 			sourceTree = "<group>";
@@ -272,7 +272,7 @@
 			files = (
 				187101CE1C06081A001A4AE7 /* LaunchScreen.storyboard in Resources */,
 				187101CB1C06081A001A4AE7 /* Assets.xcassets in Resources */,
-				18CCBC1E1C06B7A1008A136A /* tag introduction.gif in Resources */,
+				1855A6291C07184400557A27 /* tag introduction.gif in Resources */,
 				187101C61C06081A001A4AE7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
