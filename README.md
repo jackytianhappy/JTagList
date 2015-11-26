@@ -16,4 +16,4 @@ This is a demo of the tag lsit.
 4.根据试图的宽度等等来调整tag的排列
 
 #view(预览)
-![image](https://github.com/jackytianhappy/JTagList/blob/master/JTagList/tag%20introduction.gif)  
+![image](https://github.com/jackytianhappy/JTagList/blob/master/JTagList/tag20introduction.gif)  
