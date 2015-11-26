@@ -19,4 +19,4 @@ This is a demo of the tag lsit.
 
 
 #view(预览)
-![image](https://github.com/jackytianhappy/JTagList/blob/master/JTagList/tag20introduction.gif)  
+![image](https://github.com/jackytianhappy/JTagList/blob/master/JTagList/tagintroduction.gif)  
