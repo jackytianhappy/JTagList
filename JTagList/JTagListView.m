@@ -57,7 +57,7 @@
            
         }
         
-        _tagHeight = lastPositionY + TAGHEIGHT;
+        _tagHeight = lastPositionY + TAGHEIGHT + TOPPADDING;
     }
     
     
